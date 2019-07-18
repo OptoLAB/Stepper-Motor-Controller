@@ -11,7 +11,7 @@ This is a Stepper Motor Controller implementation based on dsPIC30F4013 and L298
 Usefull
 - Articale by David Austin, Generate stepper-motor speed profiles in real time [link](https://www.embedded.com/design/mcus-processors-and-socs/4006438/Generate-stepper-motor-speed-profiles-in-real-time)
 
-More info on [OptoLAB]()
+More info on [OptoLAB](http://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/244-stepper-motor-controller)
 
 Demo video on [youtube](https://www.youtube.com/watch?v=cHoV4GC4NHY)
 
